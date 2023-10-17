@@ -1,0 +1,3 @@
+const ErrorCode = {};
+
+export = ErrorCode;
